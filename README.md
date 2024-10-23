@@ -31,3 +31,8 @@
   <img src="https://img.shields.io/badge/Figma-6600FF?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </div>
+<div>
+  <img src="https://img.shields.io/badge/SQLD-0052CC?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge&logo=statistic&logoColor=white">
+</div>
