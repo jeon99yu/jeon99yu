@@ -16,17 +16,11 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
 <div style="display: inline-flex;">
+  <img src="https://img.shields.io/badge/SQLD-0052CC?style=for-the-badge&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-6600FF?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-<div>
-  <img src="https://img.shields.io/badge/SQLD-0052CC?style=for-the-badge&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge&logo=statistic&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white">
-  <img src="https://img.shields.io/badge/Scrapy-48A9A6?style=for-the-badge&logo=scrapy&logoColor=white">
-  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
