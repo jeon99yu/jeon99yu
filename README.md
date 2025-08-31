@@ -2,12 +2,12 @@
 
 ```
 🏫 Myongji University - Data Science
-🖥️ UMC 6기 - Web Part. 2024.03 ~ 2024.09
-📊 BDA 9기 - Machine Learning Part. 2024.09 ~ 2025.02
-🌱 SeSAC 용산캠퍼스 4기 - Generative AI & Data Analysis Part. 2025.06 ~ 2025.10
+🖥️ UMC - Web Part 6th. 2024.03 ~ 2024.09
+📊 BDA - Machine Learning Part 9th. 2024.09 ~ 2025.02
+🌱 SeSAC - Generative AI & Data Analysis Part 4th. 2025.06 ~ 2025.10
 ```
 ---
-### 💻 Tech Stack  
+### 🛠 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -17,7 +17,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 🤝 Collaboration & etc  
+### 💻 Collaboration & etc  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
