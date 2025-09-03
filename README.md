@@ -5,7 +5,6 @@
 📱 UMC - Web Part 6th. 2024.03 ~ 2024.09
 📊 BDA - Machine Learning Part 9th. 2024.09 ~ 2025.02
 🌱 SeSAC - Generative AI & Data Analysis Part 4th. 2025.06 ~ 2025.10
-
 ```
 ---
 ### 🛠 Tech Stack  
