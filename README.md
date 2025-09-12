@@ -6,7 +6,7 @@
 📊 BDA - Machine Learning Part 9th. 2024.09 ~ 2025.02
 🌱 SeSAC - Generative AI & Data Analysis Part 4th. 2025.06 ~ 2025.10
 ```
----
+--- 
 ### 🛠 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
