@@ -5,7 +5,7 @@
 📱 UMC - Web Part 6th. 2024.03 ~ 2024.09
 📊 BDA - Machine Learning Part 9th. 2024.09 ~ 2025.02
 🌱 SeSAC - Generative AI & Data Analysis Part 4th. 2025.06 ~ 2025.10
-🏢 FinInsight - 데이터기반 온라인 시정분석 연구 인턴 2025.10 ~ 
+🏢 FinInsight - 온라인 데이터 시정분석 연구 인턴 2025.10 ~ 
 ```
 --- 
 ### 🛠 Tech Stack  
