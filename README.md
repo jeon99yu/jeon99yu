@@ -5,6 +5,7 @@
 📱 UMC - Web Part 6th. 2024.03 ~ 2024.09
 📊 BDA - Machine Learning Part 9th. 2024.09 ~ 2025.02
 🌱 SeSAC - Generative AI & Data Analysis Part 4th. 2025.06 ~ 2025.10
+🏢 FinInsight - 데이터기반 온라인 시정분석 연구 인턴 2025.10 ~ 
 ```
 --- 
 ### 🛠 Tech Stack  
@@ -13,7 +14,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### 💻 Collaboration & etc  
