@@ -8,6 +8,13 @@
 🏢 FinInsight 인턴 - 연구용 웹 기반 텍스트 데이터 분석 플랫폼개발 2025.10 ~ 11
 ```
 --- 
+
+### 🏆 PRIZE
+```
+SeSAC 용산캠퍼스 - 우수상 (멀티에이전트 기반 중고차 추천 및 TCO 금융 분석 시스템)
+```
+
+---
 ### 🛠 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
